@@ -15,4 +15,4 @@ This project aims to develop an Early Warning System (EWS) for financial markets
 - Untila Denis
 - Venturi Agata
 
-*This project was developed for academic purposes as part of the Fintech course at Politecnico di Milano (PoliMI).
+*This project was developed for academic purposes as part of the **Fintech** course at **Politecnico di Milano (PoliMI)**.
